@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_eda23bc17fc3c662bc8c629ce5bb7499261be7bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_5414786f211bb47538ebd68171e83c52d0072cdd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_b1db2682ad70e2aaacd4b7a7ab06ff072e3efa4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3098679d03ff75ccac3a303f1c64b1473718eeb3">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0075a1ef98b2e6ad202a1adb0539fcf52c08e283\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_201db12d545e0328e46f0b64fec5de4721bd05db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="60bafc6a23e0a1771075d6df23fa481b94ba4693">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af6a9c56fafa432df769a26f9ed4f33d62459c9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_ecfe91cfc201c5f0eec52fc0f43bd88c00351926\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\TagFragment\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_014bd0b4e24fb4cb80f53f74fb48839c9213730f\classes.dex" />
+    </item>
+
+</items>

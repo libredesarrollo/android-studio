@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Presentacion</string>
+
+    <string name="PageTitle">Título</string>
+
+    <string name="Page1Title">Título 1</string>
+    <string name="Page2Title">Título 2</string>
+    <string name="Page3Title">Título 3</string>
+    <string name="Page4Title">Título 4</string>
+    <string name="Page5Title">Título 5</string>
+    <string name="Page6Title">Título 6</string>
+    <string name="Page7Title">Título 7</string>
+
+    <string name="Page1Message">Presentacion 1</string>
+    <string name="Page2Message">Presentacion 2</string>
+    <string name="Page3Message">Presentacion 3</string>
+    <string name="Page4Message">Presentacion 4</string>
+    <string name="Page5Message">Presentacion 5</string>
+    <string name="Page6Message">Presentacion 6</string>
+    <string name="Page7Message">Presentacion 7</string>
+</resources>

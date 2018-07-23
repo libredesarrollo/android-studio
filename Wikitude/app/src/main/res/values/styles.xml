@@ -1,0 +1,34 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/wikitude_primary</item>
+        <item name="colorPrimaryDark">@color/wikitude_primary_dark</item>
+        <item name="colorAccent">@color/wikitude_accent</item>
+        <item name="android:textColorPrimary">@color/wikitude_primary_text</item>
+        <item name="android:textColorSecondary">@color/wikitude_secondary_text</item>
+        <item name="android:childDivider">@color/wikitude_divider</item>
+        <item name="colorControlHighlight">@color/wikitude_primary</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/wikitude_primary_text</item>
+    </style>
+
+    <style name="AppTheme.Spinner">
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItem</item>
+    </style>
+
+    <style name="SpinnerItem">
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <style name="SpinnerDropDownItem">
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:id="@+id/instant_tracking"
+    android:theme="@style/AppTheme">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/heightSettingsLayout"
+        android:background="@color/background_material_light">
+        <TextView
+            android:text="1.00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/heightTextView"/>
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/heightSeekBar"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"/>
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instant_tracking_button_start_tracking"
+        android:id="@+id/on_change_tracker_state"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/wikitude_primary"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:theme="@style/Widget.AppCompat.Button" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_save_black_24dp"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/save_button"
+        android:layout_below="@+id/heightSettingsLayout"
+        android:background="@color/wikitude_primary"
+        android:padding="8dp"
+        android:layout_margin="8dp" />
+
+</RelativeLayout>

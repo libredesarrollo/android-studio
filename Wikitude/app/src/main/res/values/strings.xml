@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Native SDK Examples</string>
+
+    <string-array name="imageTracking_samples">
+        <item>Simple</item>
+        <item>Multiple Targets</item>
+        <item>Extended Tracking</item>
+    </string-array>
+
+    <string-array name="cloudRecognition_samples">
+        <item>Single Recognition</item>
+        <item>Continuous Recognition</item>
+    </string-array>
+
+    <string-array name="instantTracking_samples">
+        <item>Simple</item>
+        <item>Scene Picking</item>
+        <item>Save Instant Target</item>
+        <item>Load Instant Target</item>
+    </string-array>
+
+    <string-array name="objectTracking_samples">
+        <item>Simple</item>
+        <item>Extended Tracking</item>
+    </string-array>
+
+    <string-array name="rendering_samples">
+        <item>External OpenGL ES Rendering</item>
+        <item>Internal OpenGL ES Rendering</item>
+    </string-array>
+
+    <string-array name="plugins_samples">
+        <item>QR &amp; Barcode</item>
+        <item>Face Detection</item>
+        <item>Simple Custom Camera </item>
+        <item>Advanced Custom Camera</item>
+    </string-array>
+
+    <string-array name="cameraControl_samples">
+        <item>Camera Settings</item>
+    </string-array>
+
+    <string name="image_tracking">Image Tracking</string>
+    <string name="cloud_recognition">Cloud Recognition</string>
+    <string name="instant_tracking">Instant Tracking</string>
+    <string name="object_tracking">Object Tracking</string>
+    <string name="rendering">Rendering</string>
+    <string name="plugins">Plugins</string>
+    <string name="camera_control">Camera Control</string>
+    <string name="on_click_cloud_tracking_recognize_button">Recognize</string>
+    <string name="continuous_recognition_cloud_tracking_start_button">Start Continuous Recognition</string>
+    <string name="continuous_recognition_cloud_tracking_stop_button">Stop Continuous Recognition</string>
+    <string name="camera_control_flash">Flashlight</string>
+    <string name="camera_control_zoom">Zoom</string>
+    <string name="camera_control_focus">Focus</string>
+    <string name="tracking_quality_indicator_bad">Tracking Quality: Bad</string>
+    <string name="tracking_quality_indicator_average">Tracking Quality: Average</string>
+    <string name="tracking_quality_indicator_good">Tracking Quality: Good</string>
+    <string name="barcode_hint">Scan the target image and/or any barcode</string>
+    <string name="instant_tracking_button_start_tracking">Start Tracking</string>
+    <string name="instant_tracking_button_start_initialization">Start Initialization</string>
+    <string name="instant_tracking_assisted_decision_pending">Checking whether platform assisted tracking is available.</string>
+    <string name="instant_tracking_running_non_assisted_support_unknown">It could not be determined if the device supports ARCore. Running without platform assisted tracking(ARCore).</string>
+    <string name="instant_tracking_running_non_assisted">Running without platform assisted tracking(ARCore).</string>
+    <string name="instant_tracking_running_assisted">Running with platform assisted tracking(ARCore).</string>
+    <string name="instant_tracking_running_assisted_description">Move your phone around until the rectangle turns green, which is when you can start tracking.</string>
+    <string name="title_activity_custom_camera">CustomCameraActivity</string>
+    <string name="stop_extended_tracking_button_text">Stop Extended Tracking</string>
+
+    <!-- Permission handling -->
+    <string name="permissions_denied">The Wikitude SDK needs the following permissions to enable an AR experience:</string>
+    <string name="permission_rationale_text">The Wikitude SDK needs the following permissions to enable an AR experience:</string>
+    <string name="permission_rationale_title">Wikitude Permissions</string>
+
+    <!-- SDK build information -->
+    <string name="build_information_title">Build information</string>
+    <string name="build_information_config">Build configuration:</string>
+    <string name="build_information_date">Build date:</string>
+    <string name="build_information_number">Build number:</string>
+    <string name="build_information_version">Build version:</string>
+
+    <string-array name="camera_positions">
+        <item>Back Camera</item>
+        <item>Front Camera</item>
+    </string-array>
+
+    <string-array name="focus_mode">
+        <item>Focus Continuously</item>
+        <item>Focus Once</item>
+        <item>Focus Manual</item>
+    </string-array>
+</resources>
